@@ -7,7 +7,7 @@ from re       import sub
 
 
 class Car:
-    def __init__(self, model: str, url: str, price: list, parameters: str):
+    def __init__(self, model: str, url: str, price: list, parameters: str) -> None:
         """
         Initial method
         :param model:      str: Auto model
@@ -86,7 +86,7 @@ def rhc(text: str) -> str:
     return text.replace(' ·', '').replace('\xa0', ' ').replace('\u2009', ' ')
 
 
-async def fetch_cars(session: object, url: str, params: dict):
+async def fetch_cars(session: object, url: str, params: dict) -> list:
     """
     The function sends an asynchronous request and collects all the information about the machines on the page
     :param session: object: Async session

@@ -12,7 +12,7 @@ This is an async parser that searches for auto information on a website [av.by](
 ## Quickstart:
 Clone the repository:
 ```cmd
-  git clone git@github.com:CITGuru/PyInquirer.git
+  git clone git@github.com:hurfy/av.by-parser.git
 ```
 Install requirements:
 ```cmd

@@ -1,0 +1,3049 @@
+{
+    "Abarth": {
+        "id": 10297,
+        "models": {
+            "124 Spider": 10300,
+            "500": 10298,
+            "500c": 10299,
+            "Punto": 10301
+        }
+    },
+    "Acura": {
+        "id": 1444,
+        "models": {
+            "CL": 1445,
+            "CSX": 2168,
+            "EL": 1446,
+            "ILX": 2416,
+            "Integra": 1447,
+            "Legend": 1448,
+            "MDX": 1449,
+            "NSX": 1450,
+            "RDX": 2133,
+            "RL": 1451,
+            "RLX": 10228,
+            "RSX": 1452,
+            "SLX": 1453,
+            "TL": 1764,
+            "TLX": 5542,
+            "TSX": 1454,
+            "Vigor": 1455,
+            "ZDX": 2131
+        }
+    },
+    "Aeolus": {
+        "id": 10417,
+        "models": {
+            "Huge": 10420,
+            "Shine": 10421,
+            "Shine GS": 10418,
+            "Shine Max": 10419
+        }
+    },
+    "Aito": {
+        "id": 10423,
+        "models": {
+            "M5": 10424
+        }
+    },
+    "Alfa Romeo": {
+        "id": 1,
+        "models": {
+            "145": 2,
+            "146": 3,
+            "147": 1533,
+            "155": 4,
+            "156": 5,
+            "159": 1995,
+            "164": 24,
+            "166": 25,
+            "33": 26,
+            "4C": 5543,
+            "75": 28,
+            "90": 29,
+            "Alfetta": 5544,
+            "Brera": 1912,
+            "Giulia": 5545,
+            "Giulietta": 30,
+            "GT": 1966,
+            "GTV": 31,
+            "MiTo": 2285,
+            "Spider": 32,
+            "Sprint": 5546,
+            "Stelvio": 6022
+        }
+    },
+    "Alpina": {
+        "id": 5940,
+        "models": {
+            "B3": 5941,
+            "B5": 10104,
+            "B7": 10145,
+            "D5": 10292
+        }
+    },
+    "ARO": {
+        "id": 5324,
+        "models": {
+            "10": 5325,
+            "24": 5326,
+            "320": 10136
+        }
+    },
+    "Asia": {
+        "id": 5772,
+        "models": {
+            "Rocsta": 5773
+        }
+    },
+    "Aston Martin": {
+        "id": 2325,
+        "models": {
+            "Cygnet": 5547,
+            "DB7": 2326,
+            "DB9": 2327,
+            "DBS": 2328,
+            "Rapide": 2330,
+            "V12 Vantage": 2331,
+            "V8 Vantage": 2332,
+            "Virage": 5548
+        }
+    },
+    "Audi": {
+        "id": 6,
+        "models": {
+            "100": 10,
+            "200": 11,
+            "50": 5310,
+            "5000": 12,
+            "80": 7,
+            "90": 9,
+            "A1": 2182,
+            "A2": 13,
+            "A3": 1428,
+            "A4": 5810,
+            "A4 Allroad": 5813,
+            "A5": 1992,
+            "A6": 5811,
+            "A6 Allroad": 5814,
+            "A7": 2278,
+            "A8": 5812,
+            "Cabriolet": 35,
+            "Coupe": 1588,
+            "e-tron": 6015,
+            "e-tron GT": 10232,
+            "e-tron S": 10311,
+            "e-tron S Sportback": 10401,
+            "e-tron Sportback": 10367,
+            "Q2": 5770,
+            "Q3": 2316,
+            "Q3 Sportback": 10242,
+            "Q4 e-tron": 10129,
+            "Q5": 2093,
+            "Q5 e-tron": 10398,
+            "Q5 Sportback": 10180,
+            "Q7": 1702,
+            "Q8": 5955,
+            "R8": 1933,
+            "RS e-tron GT": 10233,
+            "RS Q3": 5852,
+            "RS Q8": 10163,
+            "RS2": 23,
+            "RS3": 5771,
+            "RS4": 27,
+            "RS5": 5215,
+            "RS6": 2601,
+            "RS7": 2557,
+            "S1": 17,
+            "S2": 18,
+            "S3": 19,
+            "S4": 20,
+            "S5": 2692,
+            "S6": 21,
+            "S7": 2556,
+            "S8": 22,
+            "SQ5": 5960,
+            "SQ7": 5973,
+            "SQ8": 10144,
+            "TT": 37,
+            "TTS": 5951,
+            "V8": 34
+        }
+    },
+    "Avatr": {
+        "id": 10346,
+        "models": {
+            "11": 10347
+        }
+    },
+    "BAIC ": {
+        "id": 10034,
+        "models": {
+            "EU5": 10035
+        }
+    },
+    "Baojun": {
+        "id": 10337,
+        "models": {
+            "E300": 10338,
+            "Kiwi EV": 10339
+        }
+    },
+    "Bentley": {
+        "id": 1676,
+        "models": {
+            "Arnage": 1677,
+            "Azure": 1678,
+            "Bentayga": 5342,
+            "Brooklands": 1679,
+            "Continental": 1680,
+            "Continental Flying Spur": 5549,
+            "Continental GT": 1681,
+            "Flying Spur": 10349,
+            "Mulsanne": 1682,
+            "Turbo R": 1683
+        }
+    },
+    "BMW": {
+        "id": 8,
+        "models": {
+            "1 серия": 5860,
+            "1M": 2497,
+            "2 серия": 2575,
+            "2 серия Active Tourer": 5861,
+            "2 серия Gran Tourer": 5862,
+            "3 серия": 5863,
+            "340 Baumaster": 5974,
+            "4 серия": 2496,
+            "5 серия": 5865,
+            "6 серия": 83,
+            "7 серия": 5866,
+            "8 серия": 1635,
+            "i3": 2691,
+            "i4": 10243,
+            "i8": 2596,
+            "iX": 10124,
+            "iX3": 10139,
+            "M2": 5769,
+            "M3": 52,
+            "M4": 5469,
+            "M5": 81,
+            "M6": 2430,
+            "M8": 10073,
+            "X1": 2207,
+            "X2": 5841,
+            "X3": 1661,
+            "X3M": 10204,
+            "X4": 2563,
+            "X4M": 5984,
+            "X5": 5867,
+            "X5M": 5873,
+            "X6": 1946,
+            "X6M": 5874,
+            "X7": 5965,
+            "XM": 10328,
+            "Z1": 5868,
+            "Z3": 5870,
+            "Z3M": 5875,
+            "Z4": 5871,
+            "Z4M": 5876,
+            "Z8": 5872
+        }
+    },
+    "Brilliance": {
+        "id": 2210,
+        "models": {
+            "BC3": 2211,
+            "BS2": 2212,
+            "BS4": 2213,
+            "BS6": 2214,
+            "H220": 5553,
+            "H230": 2708,
+            "H320": 5554,
+            "H330": 5555,
+            "H530": 5298,
+            "V3": 10342,
+            "V5": 5299
+        }
+    },
+    "Buick": {
+        "id": 1506,
+        "models": {
+            "Apollo": 1507,
+            "Cascada": 10150,
+            "Century": 1508,
+            "Electra": 1509,
+            "Enclave": 2447,
+            "Encore": 2570,
+            "Encore GX": 10058,
+            "Envision": 5923,
+            "GL8": 1510,
+            "LaCrosse": 2536,
+            "Le Sabre": 1511,
+            "Lucerne": 1512,
+            "Park Avenue": 1513,
+            "Rainier": 5556,
+            "Reatta": 1514,
+            "Regal": 1515,
+            "RendezVous": 1516,
+            "Riviera": 1517,
+            "Roadmaster": 1518,
+            "Skylark": 1519,
+            "Special SE": 10096,
+            "Velite 6": 10135
+        }
+    },
+    "BYD": {
+        "id": 5459,
+        "models": {
+            "Dolphin": 10272,
+            "e2": 10087,
+            "e3": 10088,
+            "e5": 10182,
+            "E6": 10002,
+            "F0": 5460,
+            "F3": 5461,
+            "F6": 5462,
+            "Flyer": 5463,
+            "Han": 10089,
+            "Qin": 10198,
+            "S6": 10234,
+            "Seagull": 10376,
+            "Seal": 10273,
+            "Song": 10085,
+            "Song Plus EV": 10164,
+            "Song Pro": 10381,
+            "Tang": 10018,
+            "Yuan": 10040,
+            "Yuan Plus": 10262,
+            "Yuan Pro": 10142
+        }
+    },
+    "Cadillac": {
+        "id": 40,
+        "models": {
+            "Allante": 106,
+            "ATS": 2555,
+            "BLS": 1972,
+            "Brougham": 107,
+            "Catera": 108,
+            "Cimarron": 109,
+            "CT4": 10295,
+            "CT5": 10323,
+            "CT6": 5834,
+            "CTS": 110,
+            "CTS-V": 5557,
+            "De Ville": 111,
+            "DTS": 1989,
+            "Eldorado": 112,
+            "ELR": 5856,
+            "Escalade": 113,
+            "Fleetwood": 115,
+            "Seville": 116,
+            "SRX": 117,
+            "STS": 118,
+            "XLR": 120,
+            "XT4": 10077,
+            "XT5": 5514,
+            "XT6": 10103,
+            "XTS": 2554
+        }
+    },
+    "Chana": {
+        "id": 10407,
+        "models": {
+            "Benni": 10408
+        }
+    },
+    "Changan": {
+        "id": 2632,
+        "models": {
+            "Auchan A600 EV": 10120,
+            "Auchan X7 EV": 10213,
+            "Benben E-Star": 10396,
+            "Benni": 5393,
+            "CS35": 2633,
+            "CS35PLUS": 10045,
+            "CS55": 10064,
+            "CS75 FL": 10179,
+            "CX20": 5394,
+            "Eado": 2635,
+            "Hunter Plus": 10405,
+            "Raeton": 2634,
+            "Shenlan SL03": 10378,
+            "Star": 5392,
+            "Uni-K": 10325,
+            "Uni-T": 10312
+        }
+    },
+    "Chery": {
+        "id": 1998,
+        "models": {
+            "A1": 2000,
+            "A13": 5096,
+            "A19": 2629,
+            "A5": 2003,
+            "Amulet": 5515,
+            "Arrizo 7": 2707,
+            "Arrizo 8": 10388,
+            "Cowin": 2002,
+            "CrossEastar": 5157,
+            "CrossEastar B14": 10037,
+            "Eastar": 5558,
+            "EQ5": 10140,
+            "Fora": 5263,
+            "Indis": 2679,
+            "Kimo": 5337,
+            "M11": 2678,
+            "QQ": 1999,
+            "QQ6": 2029,
+            "Tiggo": 2005,
+            "Tiggo 2": 5934,
+            "Tiggo 3": 5929,
+            "Tiggo 4": 10066,
+            "Tiggo 4 Pro": 10331,
+            "Tiggo 5": 5787,
+            "Tiggo 7": 10111,
+            "Tiggo 7 PRO": 10109,
+            "Tiggo 7 Pro Max": 10406,
+            "Tiggo 8": 10049,
+            "Tiggo 8 PRO": 10126,
+            "Tiggo 8 PRO MAX": 10330,
+            "V5": 2004,
+            "Very": 5300
+        }
+    },
+    "Chevrolet": {
+        "id": 41,
+        "models": {
+            "Alero": 121,
+            "Astro": 122,
+            "Avalanche": 1673,
+            "Aveo": 1565,
+            "Beretta": 123,
+            "Blazer": 124,
+            "Bolt": 5986,
+            "Bolt EUV": 10352,
+            "C/K": 125,
+            "Camaro": 126,
+            "Caprice": 127,
+            "Captiva": 2008,
+            "Cavalier": 128,
+            "Celebrity": 129,
+            "City Express": 10029,
+            "Cobalt": 1941,
+            "Colorado": 2648,
+            "Corsica": 130,
+            "Corvette": 131,
+            "Cruze": 2264,
+            "Epica": 1970,
+            "Equinox": 1596,
+            "Evanda": 5185,
+            "Express": 132,
+            "Geo Storm": 133,
+            "HHR": 1765,
+            "Impala": 134,
+            "Kalos": 5258,
+            "Lacetti": 1936,
+            "Lanos": 1967,
+            "Lumina": 135,
+            "Lumina APV": 5786,
+            "Malibu": 136,
+            "Matiz": 5150,
+            "Menlo": 10340,
+            "Metro": 137,
+            "Monte Carlo": 138,
+            "Monza": 10274,
+            "Niva": 139,
+            "Nova": 140,
+            "Nubira": 2208,
+            "Onix": 10380,
+            "Orlando": 2265,
+            "Prizm": 141,
+            "Rezzo": 2007,
+            "S-10": 5471,
+            "Silverado": 5385,
+            "Sonic": 10059,
+            "Spark": 2006,
+            "Sprint": 145,
+            "SSR": 5559,
+            "Suburban": 146,
+            "Tacuma": 2694,
+            "Tahoe": 147,
+            "Tracker": 148,
+            "TrailBlazer": 149,
+            "Trans Sport": 150,
+            "Traverse": 5953,
+            "Trax": 2594,
+            "Uplander": 2076,
+            "Van": 151,
+            "Venture": 152,
+            "Viva": 5561,
+            "Volt": 2524,
+            "Zafira": 154
+        }
+    },
+    "Chrysler": {
+        "id": 42,
+        "models": {
+            "180": 5843,
+            "200": 2464,
+            "300C": 155,
+            "300M": 5926,
+            "Aspen": 2198,
+            "Cirrus": 156,
+            "Concorde": 157,
+            "Crossfire": 158,
+            "Grand Voyager": 160,
+            "GTS": 1527,
+            "Imperial": 161,
+            "Intrepid": 162,
+            "Le Baron": 163,
+            "LHS": 164,
+            "Neon": 165,
+            "New Yorker": 166,
+            "Pacifica": 167,
+            "Prowler": 168,
+            "PT Cruiser": 169,
+            "Saratoga": 170,
+            "Sebring": 171,
+            "Stratus": 172,
+            "Town and Country": 173,
+            "Vision": 175,
+            "Voyager": 176
+        }
+    },
+    "Citroen": {
+        "id": 43,
+        "models": {
+            "2CV": 5562,
+            "AX": 177,
+            "Axel": 5563,
+            "Berlingo": 178,
+            "BX": 179,
+            "C-Crosser": 2084,
+            "C-Elysee": 2528,
+            "C-Zero": 5564,
+            "C1": 1916,
+            "C15": 5963,
+            "C2": 1659,
+            "C3": 180,
+            "C3 Aircross": 5991,
+            "C3 Picasso": 2340,
+            "C3 Pluriel": 6014,
+            "C4": 1742,
+            "C4 Aircross": 5566,
+            "C4 Cactus": 5567,
+            "C4 Grand Picasso": 2009,
+            "C4 Grand Spacetourer": 10157,
+            "C4 Picasso": 1749,
+            "C4 Spacetourer ": 10158,
+            "C5": 181,
+            "C5 Aircross": 5989,
+            "C5 X": 10360,
+            "C6": 1639,
+            "C8": 182,
+            "CX": 183,
+            "DS3": 2386,
+            "DS3 Crossback": 10372,
+            "DS3 Crossback E-Tense": 10251,
+            "DS4": 2508,
+            "DS5": 2402,
+            "DS7 Crossback": 10125,
+            "Dyane": 5569,
+            "Evasion": 184,
+            "GS": 185,
+            "Jumpy": 187,
+            "LN": 5570,
+            "Nemo": 2085,
+            "Saxo": 188,
+            "SpaceTourer": 5981,
+            "Visa": 190,
+            "Xantia": 191,
+            "XM": 192,
+            "Xsara": 193,
+            "Xsara Picasso": 194,
+            "ZX": 195
+        }
+    },
+    "Cupra": {
+        "id": 10236,
+        "models": {
+            "Ateca": 10237,
+            "Formentor": 10395,
+            "Leon": 10414
+        }
+    },
+    "Dacia": {
+        "id": 1841,
+        "models": {
+            "1300": 1843,
+            "1310": 1844,
+            "1325": 1845,
+            "1410": 1846,
+            "Dokker": 5571,
+            "Duster": 2446,
+            "Lodgy": 2382,
+            "Logan": 1842,
+            "Nova": 1847,
+            "Sandero": 2495,
+            "Sandero Stepway": 10256,
+            "Solenza": 1848,
+            "Super Nova": 5572
+        }
+    },
+    "Daewoo": {
+        "id": 46,
+        "models": {
+            "Brougham": 5574,
+            "Damas": 246,
+            "Espero": 247,
+            "Evanda": 2090,
+            "Gentra": 2550,
+            "Kalos": 1760,
+            "Kondor": 245,
+            "Korando": 248,
+            "Lacetti": 5575,
+            "Lanos": 249,
+            "Leganza": 250,
+            "Magnus": 252,
+            "Matiz": 253,
+            "Musso": 255,
+            "Nexia": 256,
+            "Nubira": 257,
+            "Orion": 5573,
+            "Prince": 258,
+            "Racer": 259,
+            "Rezzo": 260,
+            "Sens": 5774,
+            "Tacuma": 262,
+            "Tico": 263,
+            "Winstorm": 5538
+        }
+    },
+    "Daihatsu": {
+        "id": 47,
+        "models": {
+            "Applause": 266,
+            "Atrai": 267,
+            "Be-go": 5577,
+            "Boon": 5578,
+            "Charade": 268,
+            "Charmant": 5579,
+            "Copen": 269,
+            "Cuore": 1545,
+            "Delta Wagon": 270,
+            "Feroza": 271,
+            "Gran Move": 272,
+            "Hijet": 5985,
+            "Leeza": 274,
+            "Materia": 2350,
+            "MAX": 275,
+            "Mira": 276,
+            "Move": 277,
+            "Naked": 278,
+            "Opti": 279,
+            "Pyzar": 280,
+            "Rocky": 10254,
+            "Rugger": 282,
+            "Sirion": 283,
+            "Storia": 285,
+            "Terios": 286,
+            "Trevis": 5473,
+            "Valera": 1735,
+            "YRV": 287
+        }
+    },
+    "Datsun": {
+        "id": 2578,
+        "models": {
+            "mi-DO": 2579,
+            "on-DO": 2580
+        }
+    },
+    "Denza": {
+        "id": 10287,
+        "models": {
+            "X": 10288
+        }
+    },
+    "Derways": {
+        "id": 5109,
+        "models": {
+            "Antelope": 5580,
+            "Aurora": 5186,
+            "Cowboy": 5110,
+            "H3": 6021,
+            "Land Crown": 5581,
+            "Plutus": 5582,
+            "Saladin": 5583,
+            "Shuttle": 5584
+        }
+    },
+    "Dodge": {
+        "id": 45,
+        "models": {
+            "600": 218,
+            "Aries": 219,
+            "Aspen": 220,
+            "Avenger": 221,
+            "Caliber": 1854,
+            "Caravan": 222,
+            "Challenger": 2097,
+            "Charger": 1904,
+            "Dakota": 225,
+            "Dart": 226,
+            "Daytona": 227,
+            "Diplomat": 228,
+            "Durango": 229,
+            "Dynasty": 230,
+            "Grand Caravan": 231,
+            "Intrepid": 232,
+            "Journey": 2122,
+            "Magnum": 1568,
+            "Mirada": 233,
+            "Monaco": 234,
+            "Neon": 235,
+            "Nitro": 1901,
+            "Omni": 236,
+            "Raider": 238,
+            "RAM": 237,
+            "Ram C/V": 5978,
+            "RAM ProMaster City": 10134,
+            "Ram van": 5945,
+            "Shadow": 239,
+            "Spirit": 240,
+            "Stealth": 241,
+            "Stratus": 242,
+            "Viper": 243
+        }
+    },
+    "Dongfeng": {
+        "id": 5780,
+        "models": {
+            "AX7": 5924,
+            "E11K": 10178,
+            "EC36": 10235,
+            "Fengxing Lingzhi M5": 10416,
+            "H30": 5781,
+            "S30": 10080,
+            "Shuaike EV": 10324
+        }
+    },
+    "Dongfeng Honda": {
+        "id": 10106,
+        "models": {
+            "M-NV": 10107,
+            "X-NV": 10127
+        }
+    },
+    "Eagle": {
+        "id": 10240,
+        "models": {
+            "Talon": 10241
+        }
+    },
+    "Everus": {
+        "id": 10224,
+        "models": {
+            "VE-1": 10225
+        }
+    },
+    "EXEED": {
+        "id": 10303,
+        "models": {
+            "LX": 10305,
+            "TXL": 10304,
+            "VX": 10306,
+            "Yaoguang": 10307
+        }
+    },
+    "FAW": {
+        "id": 2465,
+        "models": {
+            "Admiral": 5585,
+            "Bestune B70": 10357,
+            "Bestune T77": 10314,
+            "Bestune T90": 10422,
+            "Besturn B50": 2468,
+            "Besturn B70": 2469,
+            "Besturn X80": 5586,
+            "Jinn": 5587,
+            "Oley": 5588,
+            "V2": 2466,
+            "V5": 2467,
+            "Vita": 5589
+        }
+    },
+    "Ferrari": {
+        "id": 288,
+        "models": {
+            "308": 5590,
+            "328": 289,
+            "348": 5591,
+            "360": 291,
+            "400": 5592,
+            "412": 5593,
+            "456": 293,
+            "458 Italia": 2342,
+            "488 GTB": 10159,
+            "512 TR": 5596,
+            "512M": 294,
+            "550": 300,
+            "575M Maranello": 295,
+            "599 GTB Fiorano": 2343,
+            "612 Scaglietti": 5594,
+            "California": 2456,
+            "F12": 2553,
+            "F355": 297,
+            "F40": 298,
+            "F430": 2457,
+            "F50": 299,
+            "FF": 2552,
+            "Mondial": 1585,
+            "Portofino": 10313
+        }
+    },
+    "Fiat": {
+        "id": 301,
+        "models": {
+            "124": 5597,
+            "124 Spider": 5977,
+            "126": 5598,
+            "127": 302,
+            "128": 303,
+            "131": 304,
+            "500": 306,
+            "500L": 5532,
+            "500X": 5825,
+            "500е": 6010,
+            "Albea": 2352,
+            "Argenta": 307,
+            "Barchetta": 308,
+            "Brava": 309,
+            "Bravo": 310,
+            "Cinquecento": 1562,
+            "Coupe": 311,
+            "Croma": 312,
+            "Doblo": 1550,
+            "E-Ulysse": 10231,
+            "Fiorino": 314,
+            "Freemont": 2534,
+            "Fullback": 5599,
+            "Grande Punto": 1986,
+            "Idea": 1947,
+            "Linea": 1951,
+            "Marea": 316,
+            "Multipla": 317,
+            "Palio": 318,
+            "Panda": 319,
+            "Punto": 320,
+            "Punto Evo": 5600,
+            "Qubo": 2401,
+            "Regata": 321,
+            "Ritmo": 322,
+            "Scudo": 323,
+            "Sedici": 5166,
+            "Seicento": 1561,
+            "Siena": 5187,
+            "Stilo": 324,
+            "Strada": 5820,
+            "Talento": 1763,
+            "Tempra": 325,
+            "Tipo": 326,
+            "Ulysse": 327,
+            "Uno": 328,
+            "X1/9": 329
+        }
+    },
+    "Fisker": {
+        "id": 2323,
+        "models": {
+            "Karma": 2324
+        }
+    },
+    "Ford": {
+        "id": 330,
+        "models": {
+            "Aerostar": 331,
+            "Aspire": 332,
+            "B-MAX": 2603,
+            "Bronco": 333,
+            "Bronco Raptor": 10356,
+            "Bronco Sport": 10105,
+            "C-MAX": 1747,
+            "Capri": 334,
+            "Consul": 5172,
+            "Contour": 336,
+            "Cougar": 337,
+            "Courier": 1559,
+            "Crown Victoria": 338,
+            "Econoline": 339,
+            "Econovan": 340,
+            "EcoSport": 2642,
+            "Edge": 2079,
+            "Escape": 341,
+            "Escort": 342,
+            "Excursion": 343,
+            "Expedition": 344,
+            "Explorer": 345,
+            "F-150": 346,
+            "F-250": 2531,
+            "F-350": 347,
+            "Festiva": 5601,
+            "Fiesta": 348,
+            "Fiesta ST": 10230,
+            "Five Hundred": 1985,
+            "Flex": 2176,
+            "Focus": 349,
+            "Focus RS": 10375,
+            "Focus ST": 5922,
+            "Freestar": 2271,
+            "Freestyle": 1914,
+            "Fusion": 1716,
+            "Fusion USA": 5907,
+            "Galaxy": 350,
+            "Granada": 351,
+            "Grand C-Max": 5603,
+            "GT": 5602,
+            "Ka": 354,
+            "Ka Plus": 10220,
+            "Kuga": 2209,
+            "Laser": 355,
+            "LTD": 5604,
+            "LTD Landau": 10409,
+            "Maverick": 356,
+            "Mondeo": 358,
+            "Mustang": 359,
+            "Mustang Mach-E": 10086,
+            "Orion": 360,
+            "Probe": 361,
+            "Puma": 362,
+            "Ranger": 363,
+            "S-MAX": 1949,
+            "Scorpio": 364,
+            "Sierra": 365,
+            "Taunus": 366,
+            "Taurus": 367,
+            "Taurus X": 10121,
+            "Tempo": 368,
+            "Territory EV": 10098,
+            "Thunderbird": 369,
+            "Tourneo Connect": 5223,
+            "Tourneo Courier": 5969,
+            "Tourneo Custom": 5352,
+            "Transit Connect": 5224,
+            "Transit Custom": 5351,
+            "Transit Tourneo": 6013,
+            "V8": 5847,
+            "Windstar": 371
+        }
+    },
+    "Foton": {
+        "id": 2355,
+        "models": {
+            "Sauvana": 5605,
+            "Tunland": 2357,
+            "View": 2359
+        }
+    },
+    "FSO": {
+        "id": 5526,
+        "models": {
+            "Lanos": 5995,
+            "Polonez": 5527,
+            "Syrena": 5850
+        }
+    },
+    "GAC": {
+        "id": 10131,
+        "models": {
+            "Aion LX": 10320,
+            "Aion S": 10247,
+            "Aion Y": 10132,
+            "Trumpchi GE3": 10146
+        }
+    },
+    "GAC Honda": {
+        "id": 10222,
+        "models": {
+            "VE-1": 10223
+        }
+    },
+    "Geely": {
+        "id": 2012,
+        "models": {
+            "Atlas": 5846,
+            "Atlas Cool": 10404,
+            "Atlas Pro": 10115,
+            "Boyue": 10410,
+            "CK": 2013,
+            "Coolray": 5996,
+            "Emgrand ": 2651,
+            "Emgrand EC7": 5470,
+            "Emgrand GL": 5606,
+            "Emgrand GSe": 10205,
+            "Emgrand GT": 5959,
+            "Emgrand X7": 2595,
+            "FC (Vision)": 2016,
+            "Galaxy L7": 10387,
+            "GC6": 2650,
+            "GE": 10032,
+            "Geometry A": 10024,
+            "Geometry C": 10128,
+            "Geometry E": 10374,
+            "Geometry G6": 10322,
+            "GS": 10051,
+            "KX11": 10199,
+            "LC Cross": 2646,
+            "MK": 2652,
+            "MK Cross": 2015,
+            "Monjaro": 10294,
+            "Okavango": 10291,
+            "Panda": 5236,
+            "SC7": 2509,
+            "Tugella": 10028
+        }
+    },
+    "Genesis": {
+        "id": 10006,
+        "models": {
+            "G70": 10007,
+            "G80": 10008,
+            "G90": 10009,
+            "GV70": 10141,
+            "GV80": 10010,
+            "GV90": 10011
+        }
+    },
+    "GMC": {
+        "id": 372,
+        "models": {
+            "Acadia": 2314,
+            "Canyon": 5607,
+            "Envoy": 373,
+            "Jimmy": 374,
+            "Safari": 375,
+            "Savana": 376,
+            "Sierra": 2520,
+            "Sonoma": 377,
+            "Suburban": 378,
+            "Terrain": 2423,
+            "Typhoon": 380,
+            "Vandura": 381,
+            "Yukon": 382
+        }
+    },
+    "Gonow": {
+        "id": 6005,
+        "models": {
+            "GX6": 6006
+        }
+    },
+    "Great Wall": {
+        "id": 1726,
+        "models": {
+            "Coolbear": 2460,
+            "Cowry": 5608,
+            "Deer": 1731,
+            "Florid": 5537,
+            "Hover": 1727,
+            "Hover H3": 2639,
+            "Hover H5": 5148,
+            "Hover H6": 2640,
+            "Hover M2": 5147,
+            "Hover M4": 2638,
+            "Pegasus": 1730,
+            "Peri": 2019,
+            "Poer": 10394,
+            "Poer King Kong": 10399,
+            "Safe": 1728,
+            "Sailor": 5288,
+            "Sing": 1729,
+            "SoCool": 2572,
+            "Voleex C10": 2417,
+            "Voleex C30": 5788,
+            "Wingle": 2018
+        }
+    },
+    "Hafei": {
+        "id": 2215,
+        "models": {
+            "Brio": 2218,
+            "Lobo": 5966,
+            "Minyi": 2337,
+            "Princip": 2216,
+            "Saibao": 10054,
+            "Saima": 10187,
+            "Simbo": 2217
+        }
+    },
+    "Haima": {
+        "id": 5070,
+        "models": {
+            "2": 5071,
+            "3": 5072,
+            "7": 5073,
+            "H11": 5074,
+            "M3": 5075
+        }
+    },
+    "Haval": {
+        "id": 5782,
+        "models": {
+            "Dargo": 10184,
+            "F7": 5990,
+            "F7x": 10137,
+            "H2": 5783,
+            "H5": 10031,
+            "H6": 5784,
+            "H6 Coupe": 10183,
+            "H8": 10048,
+            "H9": 5785,
+            "Jolion": 10133,
+            "M6": 10426
+        }
+    },
+    "HiPhi": {
+        "id": 10279,
+        "models": {
+            "X": 10280,
+            "Z": 10281
+        }
+    },
+    "Honda": {
+        "id": 383,
+        "models": {
+            "Accord": 384,
+            "Ascot": 385,
+            "Avancier": 386,
+            "Ballade": 5826,
+            "Beat": 388,
+            "Capa": 389,
+            "City": 390,
+            "Civic": 391,
+            "Clarity": 6003,
+            "Concerto": 392,
+            "CR-V": 393,
+            "CR-X": 394,
+            "CR-Z": 2313,
+            "Crider": 10397,
+            "Crosstour": 2500,
+            "Domani": 396,
+            "Element": 398,
+            "Elysion": 10176,
+            "eNP1": 10284,
+            "eNS1": 10255,
+            "FCX Clarity": 5979,
+            "Fit": 399,
+            "Fit Aria": 5611,
+            "FR-V": 2050,
+            "HR-V": 401,
+            "Insight": 402,
+            "Inspire": 403,
+            "Integra": 404,
+            "Jazz": 405,
+            "Legend": 407,
+            "Logo": 409,
+            "NSX": 412,
+            "Odyssey": 413,
+            "Orthia": 414,
+            "Partner": 415,
+            "Passport": 416,
+            "Pilot": 417,
+            "Prelude": 418,
+            "Rafaga": 419,
+            "Ridgeline": 2044,
+            "S-MX": 420,
+            "S2000": 421,
+            "Saber": 422,
+            "Shuttle": 423,
+            "Stepwgn": 10177,
+            "Stream": 427,
+            "Today": 428,
+            "Torneo": 429,
+            "Vigor": 431,
+            "Z": 432
+        }
+    },
+    "Hongqi": {
+        "id": 10275,
+        "models": {
+            "E-HS9": 10276,
+            "H5": 10427,
+            "H9": 10428,
+            "HQ9": 10400,
+            "HS5": 10429
+        }
+    },
+    "Hongxing": {
+        "id": 2681,
+        "models": {
+            "Noble": 2682
+        }
+    },
+    "Hozon": {
+        "id": 10259,
+        "models": {
+            "Neta U": 10260,
+            "Neta V": 10263
+        }
+    },
+    "Hummer": {
+        "id": 1498,
+        "models": {
+            "H1": 1499,
+            "H2": 1500,
+            "H3": 1560
+        }
+    },
+    "Hycan": {
+        "id": 10326,
+        "models": {
+            "Z03": 10327
+        }
+    },
+    "Hyundai": {
+        "id": 433,
+        "models": {
+            "Accent": 434,
+            "Atos": 435,
+            "Avante": 5217,
+            "Bayon": 10264,
+            "Centennial": 5816,
+            "Coupe": 437,
+            "Creta": 5384,
+            "Dynasty": 438,
+            "Elantra": 439,
+            "Encino": 10317,
+            "Equus": 2185,
+            "Excel": 440,
+            "Galloper": 441,
+            "Genesis": 2186,
+            "Genesis coupe": 5930,
+            "Getz": 442,
+            "Grace": 443,
+            "Grand Santa Fe": 5613,
+            "Grand Starex": 6009,
+            "Grandeur": 2021,
+            "H-1(Starex)": 445,
+            "H100": 446,
+            "H200": 6007,
+            "i10": 2309,
+            "i20": 2201,
+            "i30": 2020,
+            "i40": 2414,
+            "Ioniq": 6016,
+            "Ioniq 5": 10430,
+            "Ioniq 5 N": 10431,
+            "Ioniq 6": 10432,
+            "ix20": 2391,
+            "ix35": 2268,
+            "ix55": 2415,
+            "Kona": 5994,
+            "Lantra": 447,
+            "Marcia": 448,
+            "Matrix": 449,
+            "Palisade": 10047,
+            "Pony": 450,
+            "S Coupe": 452,
+            "Santa Cruz SEL": 10215,
+            "Santa Fe": 453,
+            "Santamo": 454,
+            "Solaris": 2336,
+            "Sonata": 455,
+            "Staria": 10212,
+            "Stellar": 456,
+            "Terracan": 457,
+            "Tiburon": 458,
+            "Trajet": 459,
+            "Tucson": 1638,
+            "Tuscani": 5530,
+            "Veloster": 2390,
+            "Venue": 10310,
+            "Veracruz": 1931,
+            "XG": 460
+        }
+    },
+    "Infiniti": {
+        "id": 1343,
+        "models": {
+            "EX": 1930,
+            "FX": 1344,
+            "G": 1347,
+            "I": 1350,
+            "J": 1352,
+            "JX": 2334,
+            "M": 2102,
+            "Q": 1354,
+            "Q30": 5789,
+            "Q40": 5793,
+            "Q45": 10060,
+            "Q50": 5790,
+            "Q60": 5791,
+            "Q70": 5792,
+            "QX30": 5618,
+            "QX4": 1355,
+            "QX50": 2504,
+            "QX55": 10250,
+            "QX56": 1356,
+            "QX60": 2569,
+            "QX70": 2505,
+            "QX80": 2506
+        }
+    },
+    "Iran Khodro": {
+        "id": 2022,
+        "models": {
+            "Samand": 2023
+        }
+    },
+    "Isuzu": {
+        "id": 461,
+        "models": {
+            "Amigo": 462,
+            "Ascender": 5619,
+            "Aska": 463,
+            "Axiom": 464,
+            "Bighorn": 465,
+            "D-Max": 5620,
+            "Filly": 468,
+            "Gemini": 470,
+            "Hombre": 472,
+            "Midi": 474,
+            "Oasis": 475,
+            "Piazza": 473,
+            "Rodeo": 476,
+            "Trooper": 477,
+            "VehiCross": 478,
+            "Wizard": 479
+        }
+    },
+    "JAC": {
+        "id": 2030,
+        "models": {
+            "iEV7S": 10025,
+            "iEVS4": 10071,
+            "J2": 5621,
+            "J5": 5622,
+            "J7": 10201,
+            "JS4": 10248,
+            "JS6": 10249,
+            "M5": 2032,
+            "Refine": 5149,
+            "Rein": 5533,
+            "S5": 5623,
+            "T6": 10153,
+            "T8 Pro": 10336
+        }
+    },
+    "Jaguar": {
+        "id": 526,
+        "models": {
+            "E-Pace": 5988,
+            "E-Type": 528,
+            "F-Pace": 5291,
+            "F-Type": 2713,
+            "I-Pace": 5925,
+            "S-Type": 529,
+            "X-Type": 531,
+            "XE": 2697,
+            "XF": 2095,
+            "XJ": 532,
+            "XJR": 536,
+            "XJS": 537,
+            "XK": 5624,
+            "XKR": 539
+        }
+    },
+    "Jeep": {
+        "id": 540,
+        "models": {
+            "Cherokee": 541,
+            "Commander": 2200,
+            "Compass": 1973,
+            "Gladiator": 10267,
+            "Grand Cherokee": 542,
+            "Liberty": 543,
+            "Patriot": 2354,
+            "Renegade": 5008,
+            "Wagoneer": 10219,
+            "Wrangler": 544
+        }
+    },
+    "Jetour": {
+        "id": 10362,
+        "models": {
+            "Dashing": 10386,
+            "X90 PLUS": 10363
+        }
+    },
+    "Jiangling": {
+        "id": 2272,
+        "models": {
+            "Landwind": 2276
+        }
+    },
+    "Jinbei": {
+        "id": 10391,
+        "models": {
+            "Sea Lion": 10392
+        }
+    },
+    "Joylong": {
+        "id": 10188,
+        "models": {
+            "Ifly": 10189
+        }
+    },
+    "Kandi": {
+        "id": 10238,
+        "models": {
+            "Coco": 10239
+        }
+    },
+    "Kia": {
+        "id": 545,
+        "models": {
+            "Amanti": 1991,
+            "Avella": 546,
+            "Besta": 547,
+            "Borrego": 10123,
+            "Cadenza": 2192,
+            "Capital": 548,
+            "Carens": 549,
+            "Carnival": 550,
+            "Carstar": 551,
+            "Cee'd": 1980,
+            "Cerato": 1960,
+            "Clarus": 552,
+            "Concord": 5625,
+            "Elan": 553,
+            "Enterprise": 554,
+            "EV6": 10114,
+            "Forte": 2189,
+            "Joice": 555,
+            "K5": 10027,
+            "K7": 10122,
+            "K900": 5987,
+            "KX3": 10202,
+            "Magentis": 556,
+            "Mohave": 2132,
+            "Niro": 5626,
+            "Opirus": 2072,
+            "Optima": 558,
+            "Picanto": 1737,
+            "Potentia": 559,
+            "Pregio": 560,
+            "Pride": 561,
+            "ProCeed": 10112,
+            "Quoris": 2647,
+            "Retona": 562,
+            "Rio": 563,
+            "Rio X (X-Line)": 10296,
+            "Rondo": 5952,
+            "Sedona": 564,
+            "Seltos": 5993,
+            "Sephia": 565,
+            "Shuma": 566,
+            "Sorento": 567,
+            "Soul": 2195,
+            "Soul EV": 10012,
+            "Spectra": 568,
+            "Sportage": 569,
+            "Stinger": 5851,
+            "Stonic": 10069,
+            "Towner": 2196,
+            "Venga": 2231,
+            "Visto": 571,
+            "X-Trek": 2197,
+            "XCeed": 10216
+        }
+    },
+    "Lada (ВАЗ)": {
+        "id": 1279,
+        "models": {
+            "1111 Ока": 1280,
+            "2101": 1282,
+            "21013": 6017,
+            "2102": 1283,
+            "2103": 1284,
+            "2104": 1285,
+            "2105": 1286,
+            "2106": 1287,
+            "2107": 1288,
+            "2108": 1289,
+            "2109": 1290,
+            "21099": 1291,
+            "2110": 1292,
+            "2111": 1293,
+            "2112": 1294,
+            "2113": 5249,
+            "2114": 2411,
+            "2115": 1295,
+            "2120 Надежда": 1296,
+            "2121 Нива": 1297,
+            "2123": 1301,
+            "2129": 1302,
+            "2131 Нива": 1304,
+            "2328": 1305,
+            "2329": 1306,
+            "2345 ВИС": 10015,
+            "2347 ВИС": 10246,
+            "Granta": 2398,
+            "Granta Kub": 10383,
+            "Granta Prima": 10382,
+            "Granta VIS": 10425,
+            "Kalina": 1281,
+            "Largus": 2353,
+            "Niva Kub": 10385,
+            "Niva Prima": 10384,
+            "Niva Travel": 10154,
+            "Priora": 2399,
+            "Vesta": 5136,
+            "XRAY": 5173
+        }
+    },
+    "Lamborghini": {
+        "id": 2437,
+        "models": {
+            "Aventador": 2441,
+            "Countach": 2442,
+            "Diablo": 2440,
+            "Espada": 2443,
+            "Gallardo": 2438,
+            "Huracan": 5264,
+            "Murcielago": 2439,
+            "Urus": 5983
+        }
+    },
+    "Lancia": {
+        "id": 572,
+        "models": {
+            "Beta": 573,
+            "Dedra": 574,
+            "Delta": 575,
+            "Gamma": 576,
+            "Kappa": 578,
+            "Lybra": 579,
+            "Musa": 2368,
+            "Phedra": 1915,
+            "Prisma": 580,
+            "Thema": 581,
+            "Thesis": 1558,
+            "Trevi": 5627,
+            "Voyager": 5864,
+            "Y10": 5982,
+            "Ypsilon": 5628,
+            "Zeta": 5525
+        }
+    },
+    "Land Rover": {
+        "id": 584,
+        "models": {
+            "Defender": 585,
+            "Discovery": 586,
+            "Discovery Sport": 5509,
+            "Freelander": 587,
+            "Range Rover": 588,
+            "Range Rover Evoque": 2429,
+            "Range Rover Sport": 2026,
+            "Range Rover Velar": 5829
+        }
+    },
+    "Leapmotor": {
+        "id": 10268,
+        "models": {
+            "C11": 10269,
+            "T03": 10270
+        }
+    },
+    "Lexus": {
+        "id": 589,
+        "models": {
+            "CT": 2335,
+            "ES": 590,
+            "GS": 591,
+            "GX": 592,
+            "HS": 2096,
+            "IS": 593,
+            "LC": 5976,
+            "LS": 594,
+            "LX": 595,
+            "NX": 2584,
+            "RC": 5099,
+            "RC F": 5631,
+            "RX": 596,
+            "SC": 597,
+            "UX": 10033
+        }
+    },
+    "Lifan": {
+        "id": 2586,
+        "models": {
+            "Breez": 2588,
+            "Cebrium": 2589,
+            "Celliya": 2590,
+            "Murman": 5832,
+            "MyWay": 5831,
+            "Smily": 2591,
+            "Solano": 2592,
+            "X50": 5151,
+            "X60": 2593,
+            "X70": 5844
+        }
+    },
+    "Lincoln": {
+        "id": 601,
+        "models": {
+            "Aviator": 602,
+            "Continental": 603,
+            "Corsair": 10055,
+            "LS": 604,
+            "Mark LT": 5632,
+            "Mark VII": 605,
+            "Mark VIII": 10057,
+            "MKC": 5824,
+            "MKS": 2310,
+            "MKT": 5777,
+            "MKX": 1919,
+            "MKZ": 2175,
+            "Nautilus": 6012,
+            "Navigator": 607,
+            "Town Car": 608
+        }
+    },
+    "LiXiang": {
+        "id": 10209,
+        "models": {
+            "L7": 10354,
+            "L8": 10403,
+            "L9": 10211,
+            "One": 10210
+        }
+    },
+    "Lotus": {
+        "id": 2295,
+        "models": {
+            "340R": 2297,
+            "Elan": 2299,
+            "Elise": 2301,
+            "Elite": 2300,
+            "Esprit": 2296,
+            "Europa": 2302,
+            "Evora": 2303,
+            "Excel": 2304,
+            "Exige": 2305
+        }
+    },
+    "Mahindra": {
+        "id": 5957,
+        "models": {
+            "Pik-Up": 5958
+        }
+    },
+    "Maserati": {
+        "id": 1625,
+        "models": {
+            "228": 1626,
+            "3200GT": 1627,
+            "Biturbo": 5633,
+            "Coupe": 1628,
+            "Ghibli": 1629,
+            "Gran Turismo": 2317,
+            "Levante": 5635,
+            "Quattroporte": 1630
+        }
+    },
+    "Maybach": {
+        "id": 2169,
+        "models": {
+            "57": 2170,
+            "62": 2171
+        }
+    },
+    "Mazda": {
+        "id": 634,
+        "models": {
+            "121": 635,
+            "2": 636,
+            "3": 637,
+            "3 MPS": 10116,
+            "323": 638,
+            "323F": 5936,
+            "5": 1902,
+            "6": 639,
+            "626": 640,
+            "929": 644,
+            "Az-Offroad": 646,
+            "Az-Wagon": 647,
+            "B-Series": 649,
+            "Bongo": 650,
+            "BT-50": 2583,
+            "Capella": 651,
+            "Carol": 652,
+            "Cosmo": 653,
+            "CX-3": 5636,
+            "CX-30": 10050,
+            "CX-5": 2397,
+            "CX-50": 10341,
+            "CX-60": 10355,
+            "CX-7": 1701,
+            "CX-9": 1934,
+            "Demio": 654,
+            "E-Series": 656,
+            "Efini MS-8": 657,
+            "Familia": 659,
+            "Lantis": 660,
+            "Laputa": 661,
+            "Luce": 662,
+            "Millenia": 663,
+            "MPV": 665,
+            "MX-3": 666,
+            "MX-30": 10084,
+            "MX-5": 667,
+            "MX-6": 668,
+            "Navajo": 670,
+            "Premacy": 671,
+            "Protege": 672,
+            "RX-7": 675,
+            "RX-8": 674,
+            "Scrum": 676,
+            "Sentia": 677,
+            "Tribute": 679,
+            "Xedos 6": 681,
+            "Xedos 9": 682
+        }
+    },
+    "McLaren": {
+        "id": 5970,
+        "models": {
+            "MP4-12C": 5971
+        }
+    },
+    "Mercedes-Benz": {
+        "id": 683,
+        "models": {
+            "190 (W201)": 761,
+            "A-Класс": 1642,
+            "A-Класс AMG": 5878,
+            "AMG GT": 5488,
+            "B-Класс": 1645,
+            "C-Класс": 5879,
+            "C-Класс AMG": 5880,
+            "Citan": 2526,
+            "CL": 747,
+            "CL AMG": 5881,
+            "CLA": 2444,
+            "CLA AMG": 5882,
+            "CLC": 2409,
+            "CLK": 751,
+            "CLK AMG": 5883,
+            "CLS": 1734,
+            "CLS AMG": 5954,
+            "E-Класс": 5884,
+            "E-Класс All-Terrain": 10361,
+            "E-Класс AMG": 5885,
+            "EQA": 10343,
+            "EQB": 10402,
+            "EQC": 10022,
+            "EQE": 10229,
+            "EQE SUV": 10377,
+            "EQS": 10130,
+            "EQS SUV": 10271,
+            "EQV": 10332,
+            "G-Класс": 774,
+            "G-Класс AMG": 5886,
+            "GL-Класс": 1944,
+            "GL-Класс AMG": 5887,
+            "GLA": 2537,
+            "GLA AMG": 5888,
+            "GLB": 10041,
+            "GLC": 2718,
+            "GLC AMG": 5889,
+            "GLC Coupe": 5890,
+            "GLC Coupe AMG": 5891,
+            "GLE": 2675,
+            "GLE AMG": 5892,
+            "GLE Coupe": 5893,
+            "GLE Coupe AMG": 5894,
+            "GLK": 2040,
+            "GLS": 5250,
+            "GLS AMG": 5895,
+            "M-Класс": 789,
+            "M-Класс AMG": 5904,
+            "Maybach": 785,
+            "Maybach GLS": 10155,
+            "MB": 5798,
+            "Metris": 10217,
+            "R-Класс": 1837,
+            "R-Класс AMG": 5896,
+            "S-Класс": 5897,
+            "S-Класс AMG": 5898,
+            "SL": 811,
+            "SL AMG": 5899,
+            "SLC": 5900,
+            "SLC AMG": 5901,
+            "SLK": 812,
+            "SLK AMG": 5902,
+            "SLR McLaren": 815,
+            "SLS AMG": 5761,
+            "V-Класс": 1910,
+            "Vaneo": 818,
+            "Viano": 820,
+            "Vito": 821,
+            "W110": 10165,
+            "X-класс": 5903
+        }
+    },
+    "Mercury": {
+        "id": 825,
+        "models": {
+            "Capri": 826,
+            "Cougar": 827,
+            "Grand Marquis": 828,
+            "Marauder": 5638,
+            "Mariner": 2311,
+            "Milan": 2099,
+            "Montego": 5639,
+            "Monterey": 5949,
+            "Mountaineer": 829,
+            "Mystique": 1715,
+            "Sable": 830,
+            "Topaz": 831,
+            "Tracer": 832,
+            "Villager": 833
+        }
+    },
+    "MG": {
+        "id": 1906,
+        "models": {
+            "3": 2204,
+            "350": 5395,
+            "5": 5640,
+            "550": 2202,
+            "6": 2205,
+            "7": 5641,
+            "750": 2203,
+            "F": 1909,
+            "Metro": 1908,
+            "MGB": 5642,
+            "TF": 5643,
+            "ZR": 5349,
+            "ZS": 5228,
+            "ZT": 5644
+        }
+    },
+    "Microcar": {
+        "id": 10090,
+        "models": {
+            "M.Go": 10091
+        }
+    },
+    "MINI": {
+        "id": 1850,
+        "models": {
+            "Cabrio": 5795,
+            "Clubman": 2461,
+            "Cooper": 1851,
+            "Cooper SE": 10143,
+            "Countryman": 2654,
+            "Coupe": 5972,
+            "Hatch": 5833,
+            "Paceman": 5817
+        }
+    },
+    "Mitsubishi": {
+        "id": 834,
+        "models": {
+            "3000GT": 835,
+            "Airtrek": 836,
+            "Aspire": 837,
+            "ASX": 2184,
+            "Carisma": 840,
+            "Celeste": 5646,
+            "Chariot": 843,
+            "Colt": 844,
+            "Cordia": 845,
+            "Debonair": 846,
+            "Delica": 847,
+            "Diamante": 848,
+            "Dignity": 849,
+            "Dingo": 850,
+            "Dion": 851,
+            "Eclipse": 852,
+            "Eclipse Cross": 5956,
+            "EK-Space": 10200,
+            "Emeraude": 854,
+            "Endeavor": 1924,
+            "Eterna": 855,
+            "Freeca": 5647,
+            "FTO": 857,
+            "Galant": 860,
+            "Grandis": 861,
+            "i-MiEV": 2582,
+            "L200": 864,
+            "L300": 865,
+            "L400": 10152,
+            "Lancer": 867,
+            "Lancer Evolution": 868,
+            "Lancer Ralliart": 10218,
+            "Legnum": 869,
+            "Libero": 870,
+            "Minica": 872,
+            "Mirage": 873,
+            "Montero": 874,
+            "Montero Sport": 5648,
+            "Outlander": 875,
+            "Outlander Sport": 10099,
+            "Pajero": 876,
+            "Pajero Mini": 5178,
+            "Pajero Pinin": 5177,
+            "Pajero Sport": 5176,
+            "Proudia": 878,
+            "Raider": 5819,
+            "RVR": 879,
+            "Sapporo": 5169,
+            "Sigma": 881,
+            "Space Gear": 882,
+            "Space Runner": 883,
+            "Space Star": 884,
+            "Space Wagon": 885,
+            "Starion": 886,
+            "Strada": 887,
+            "Toppo": 889,
+            "Town Box": 890,
+            "Tredia": 891,
+            "Xpander": 10333
+        }
+    },
+    "Morgan": {
+        "id": 5937,
+        "models": {
+            "Aero 8": 5938
+        }
+    },
+    "Nio": {
+        "id": 10411,
+        "models": {
+            "ET5": 10412
+        }
+    },
+    "Nissan": {
+        "id": 892,
+        "models": {
+            "100NX": 893,
+            "180SX": 894,
+            "200SX": 895,
+            "240SX": 896,
+            "300ZX": 897,
+            "350Z": 1495,
+            "370Z": 2043,
+            "AD": 5652,
+            "Almera": 899,
+            "Almera Classic": 5931,
+            "Almera Tino": 2312,
+            "Altima": 900,
+            "Ariya": 10373,
+            "Armada": 901,
+            "Avenir": 904,
+            "Bassara": 905,
+            "Bluebird": 906,
+            "Caravan": 907,
+            "Cedric": 908,
+            "Cefiro": 909,
+            "Cherry": 910,
+            "Cima": 911,
+            "Crew": 914,
+            "Cube": 915,
+            "e-NV200": 10039,
+            "Elgrand": 917,
+            "Expert": 918,
+            "Figaro": 5654,
+            "Frontier": 5655,
+            "Fuga": 5657,
+            "Gloria": 920,
+            "GT-R": 1996,
+            "Juke": 2226,
+            "Kicks ": 10056,
+            "Kubistar": 923,
+            "Lafesta": 5658,
+            "Langley": 924,
+            "Largo": 925,
+            "Laurel": 926,
+            "Leaf": 2306,
+            "Leopard": 927,
+            "Liberty": 928,
+            "Lucino": 929,
+            "Maxima": 936,
+            "Micra": 937,
+            "Mistral": 938,
+            "Moco": 939,
+            "Murano": 940,
+            "Navara": 941,
+            "Note": 1767,
+            "NV1500": 5827,
+            "NV200": 2459,
+            "NV300": 10061,
+            "Pathfinder": 942,
+            "Patrol": 943,
+            "Pick Up": 6018,
+            "Pixo": 2227,
+            "Prairie": 945,
+            "Presage": 946,
+            "Presea": 947,
+            "President": 948,
+            "Primastar": 1671,
+            "Primera": 949,
+            "Pulsar": 5845,
+            "Qashqai": 1768,
+            "Qashqai+2": 5168,
+            "Quest": 952,
+            "R'nessa": 954,
+            "Rasheen": 953,
+            "Rogue": 1929,
+            "Rogue Sport": 10181,
+            "Roox": 5659,
+            "Sentra": 956,
+            "Serena": 957,
+            "Silvia": 1637,
+            "Skyline": 958,
+            "Stagea": 5660,
+            "Stanza": 1750,
+            "Sunny": 959,
+            "Sylphy": 10119,
+            "Teana": 2260,
+            "Terrano": 960,
+            "Tiida": 1945,
+            "Titan": 2403,
+            "Urvan": 962,
+            "Vanette": 963,
+            "Versa": 2181,
+            "Wingroad": 5661,
+            "X-Trail": 964,
+            "XTerra": 965
+        }
+    },
+    "Oldsmobile": {
+        "id": 1364,
+        "models": {
+            "88": 5797,
+            "98": 1378,
+            "Achieva": 1366,
+            "Alero": 1367,
+            "Aurora": 1368,
+            "Bravada": 1369,
+            "Cutlass": 1372,
+            "Cutlass Calais": 5796,
+            "Cutlass Ciera": 1371,
+            "Firenza": 1374,
+            "Intrigue": 1375,
+            "LSS": 1376,
+            "Omega": 1377,
+            "Silhouette": 1379,
+            "Toronado": 1380
+        }
+    },
+    "Opel": {
+        "id": 966,
+        "models": {
+            "Adam": 5183,
+            "Agila": 1591,
+            "Ampera": 2715,
+            "Antara": 2180,
+            "Arena": 967,
+            "Ascona": 968,
+            "Astra": 5815,
+            "Astra OPC": 10329,
+            "Calibra": 970,
+            "Campo": 971,
+            "Cascada": 5292,
+            "Combo": 972,
+            "Combo XL": 10390,
+            "Commodore": 973,
+            "Corsa": 974,
+            "Crossland X": 5943,
+            "Diplomat": 975,
+            "Frontera": 976,
+            "Grandland X": 5944,
+            "GT": 2116,
+            "Insignia": 2183,
+            "Insignia OPC": 10345,
+            "Kadett": 977,
+            "Kapitan": 5830,
+            "Karl": 5854,
+            "Manta": 978,
+            "Meriva": 1563,
+            "Mokka": 2530,
+            "Monterey": 979,
+            "Monza": 980,
+            "Omega": 981,
+            "Rekord": 982,
+            "Senator": 983,
+            "Signum": 984,
+            "Sintra": 985,
+            "Speedster": 5664,
+            "Tigra": 986,
+            "Vectra": 987,
+            "Vivaro": 5778,
+            "Zafira": 988,
+            "Zafira Life": 10113
+        }
+    },
+    "Peugeot": {
+        "id": 989,
+        "models": {
+            "1007": 1965,
+            "104": 990,
+            "106": 991,
+            "107": 1926,
+            "108": 5665,
+            "2008": 2616,
+            "205": 992,
+            "206": 993,
+            "207": 1923,
+            "208": 2540,
+            "3008": 2177,
+            "301": 2548,
+            "304": 5666,
+            "305": 994,
+            "306": 995,
+            "307": 996,
+            "308": 1927,
+            "309": 997,
+            "4007": 2139,
+            "4008": 2617,
+            "405": 998,
+            "406": 999,
+            "407": 1578,
+            "408": 1000,
+            "5008": 2283,
+            "504": 1001,
+            "505": 1002,
+            "508": 2262,
+            "604": 1003,
+            "605": 1004,
+            "607": 1006,
+            "806": 1008,
+            "807": 1009,
+            "Bipper": 2199,
+            "e-208": 10053,
+            "Expert": 1631,
+            "iOn": 5667,
+            "Partner": 1011,
+            "RCZ": 2425,
+            "Rifter ": 10072,
+            "Traveller": 5853
+        }
+    },
+    "Piaggio": {
+        "id": 2221,
+        "models": {
+            "Porter": 2222
+        }
+    },
+    "Plymouth": {
+        "id": 1012,
+        "models": {
+            "Acclaim": 1013,
+            "Breeze": 1014,
+            "Grand Voyager": 1015,
+            "Laser": 1016,
+            "Neon": 1017,
+            "Prowler": 1018,
+            "Reliant": 1019,
+            "Sundance": 1020,
+            "Voyager": 1021
+        }
+    },
+    "Polestar": {
+        "id": 10042,
+        "models": {
+            "1": 10043,
+            "2": 10044,
+            "3": 10433,
+            "4": 10434
+        }
+    },
+    "Pontiac": {
+        "id": 1022,
+        "models": {
+            "6000": 1023,
+            "Aztek": 1024,
+            "Bonneville": 1025,
+            "Fiero": 1026,
+            "Firebird": 1027,
+            "G3": 10065,
+            "G6": 1587,
+            "Grand AM": 1028,
+            "Grand Prix": 1029,
+            "GTO": 1586,
+            "LeMans": 1030,
+            "Montana": 1031,
+            "Parisienne": 1032,
+            "Phoenix": 1033,
+            "Solstice": 1928,
+            "Sunbird": 1034,
+            "Sunfire": 1035,
+            "Torrent": 2179,
+            "Trans Sport": 1037,
+            "Vibe": 1038
+        }
+    },
+    "Porsche": {
+        "id": 1485,
+        "models": {
+            "911": 1486,
+            "912": 5669,
+            "914": 5670,
+            "918": 5671,
+            "924": 1487,
+            "928": 1488,
+            "944": 1489,
+            "959": 1490,
+            "968": 1491,
+            "Boxster": 1492,
+            "Carrera GT": 5672,
+            "Cayenne": 1493,
+            "Cayenne Coupe": 10023,
+            "Cayman": 1838,
+            "Cayman GT4": 10147,
+            "Macan": 2558,
+            "Panamera": 2100,
+            "Taycan": 6004
+        }
+    },
+    "Proton": {
+        "id": 1609,
+        "models": {
+            "Arena": 5674,
+            "Exora": 5678,
+            "Gen2": 5675,
+            "Perdana": 1617,
+            "Persona": 1618,
+            "Preve": 5679,
+            "Putra": 5676,
+            "Saga": 5673,
+            "Satria": 1620,
+            "Savvy": 5680,
+            "Waja": 1621,
+            "Wira": 1622
+        }
+    },
+    "RAM": {
+        "id": 10226,
+        "models": {
+            "1500": 10227
+        }
+    },
+    "Ravon": {
+        "id": 5503,
+        "models": {
+            "Gentra": 5507,
+            "Nexia R3": 5506,
+            "R2": 5504,
+            "R4": 5505
+        }
+    },
+    "Renault": {
+        "id": 1039,
+        "models": {
+            "11": 1042,
+            "12": 5681,
+            "14": 5682,
+            "18": 1594,
+            "19": 1043,
+            "20": 5683,
+            "21": 1044,
+            "25": 1045,
+            "30": 5684,
+            "4": 5137,
+            "5": 1040,
+            "9": 1041,
+            "Arkana": 5975,
+            "Avantime": 1733,
+            "Captur": 5775,
+            "City K-ZE": 10026,
+            "Clio": 1046,
+            "Clio RS": 5905,
+            "Dokker": 5018,
+            "Duster": 2281,
+            "Espace": 1048,
+            "Express": 1049,
+            "Fluence": 2279,
+            "Fluence Z.E.": 10149,
+            "Fuego": 1050,
+            "Grand Espace": 5426,
+            "Grand Scenic": 5273,
+            "Kadjar": 5935,
+            "Kangoo": 1051,
+            "Kaptur": 5328,
+            "Koleos": 2081,
+            "Laguna": 1053,
+            "Latitude": 2282,
+            "Lodgy": 2655,
+            "Logan": 1674,
+            "Logan Stepway": 10148,
+            "Megane": 1057,
+            "Megane E-Tech": 10261,
+            "Megane RS": 5906,
+            "Modus": 1739,
+            "Rapid": 1060,
+            "Safrane": 1061,
+            "Sandero": 2280,
+            "Sandero Stepway": 10118,
+            "Scenic": 1994,
+            "Scenic RX4": 5685,
+            "Scenic XMOD": 5686,
+            "Symbol": 1063,
+            "Talisman": 5346,
+            "Thalia": 10190,
+            "Trafic": 5779,
+            "Twingo": 1065,
+            "Twizy": 5687,
+            "Vel Satis": 1066,
+            "Wind": 2458,
+            "ZOE": 5007
+        }
+    },
+    "Renault Samsung": {
+        "id": 10100,
+        "models": {
+            "QM3": 10191,
+            "QM5": 10192,
+            "QM6": 10101,
+            "SM3": 10193,
+            "SM5": 10194,
+            "SM6": 10195,
+            "SM7": 10196,
+            "XM3": 10197
+        }
+    },
+    "Roewe": {
+        "id": 5800,
+        "models": {
+            "350": 5803,
+            "550": 5802,
+            "750": 5806,
+            "950": 5801,
+            "E50": 5805,
+            "Ei5": 10078,
+            "ERX5": 10079,
+            "W5": 5804
+        }
+    },
+    "Rolls-Royce": {
+        "id": 5100,
+        "models": {
+            "Corniche": 5107,
+            "Dawn": 5690,
+            "Ghost": 5101,
+            "Park Ward": 5106,
+            "Phantom": 5102,
+            "Silver Seraph": 5104,
+            "Silver Shadow": 5105,
+            "Silver Spirit": 5691,
+            "Silver Spur": 5939,
+            "Wraith": 5689
+        }
+    },
+    "Rover": {
+        "id": 1067,
+        "models": {
+            "100": 1070,
+            "200": 1071,
+            "25": 1072,
+            "400": 1073,
+            "45": 1074,
+            "600": 1075,
+            "75": 1076,
+            "800": 1077,
+            "CityRover": 5692,
+            "Maestro": 1079,
+            "Mini": 1082,
+            "Montego": 1083,
+            "SD1": 2549,
+            "Streetwise": 5243
+        }
+    },
+    "Saab": {
+        "id": 1085,
+        "models": {
+            "9-2X": 1921,
+            "9-3": 1086,
+            "9-4X": 5693,
+            "9-5": 1087,
+            "9-7X": 1691,
+            "900": 1088,
+            "9000": 1089,
+            "99": 1090
+        }
+    },
+    "Saipa": {
+        "id": 5029,
+        "models": {
+            "Quick": 10435,
+            "Saina": 10436,
+            "Shahin": 10437,
+            "Tiba": 5030
+        }
+    },
+    "Santana": {
+        "id": 5517,
+        "models": {
+            "PS-10": 5518,
+            "S350": 6008
+        }
+    },
+    "Saturn": {
+        "id": 1703,
+        "models": {
+            "Astra": 5821,
+            "Aura": 5295,
+            "ION": 5694,
+            "LS": 1911,
+            "LW": 1705,
+            "Outlook": 5962,
+            "SC": 1706,
+            "Sky": 2308,
+            "SL": 1707,
+            "SW": 1708,
+            "VUE": 1709
+        }
+    },
+    "Scion": {
+        "id": 2698,
+        "models": {
+            "FR-S": 2699,
+            "iA": 2700,
+            "iM": 2701,
+            "iQ": 2702,
+            "tC": 2703,
+            "xA": 2704,
+            "xB": 2705,
+            "xD": 2706
+        }
+    },
+    "SEAT": {
+        "id": 1091,
+        "models": {
+            "Alhambra": 1092,
+            "Altea": 1903,
+            "Arona": 10102,
+            "Arosa": 1093,
+            "Ateca": 5695,
+            "Cordoba": 1094,
+            "Exeo": 2384,
+            "Fura": 5696,
+            "Ibiza": 1095,
+            "Inca": 1096,
+            "Leon": 1097,
+            "Leon Cupra": 10253,
+            "Malaga": 1098,
+            "Marbella": 1099,
+            "Mii": 5697,
+            "Ronda": 1100,
+            "Tarraco": 10166,
+            "Terra": 1101,
+            "Toledo": 1102
+        }
+    },
+    "Seres": {
+        "id": 10289,
+        "models": {
+            "SF5": 10290
+        }
+    },
+    "Shanghai Maple": {
+        "id": 5822,
+        "models": {
+            "C81": 5823
+        }
+    },
+    "Skoda": {
+        "id": 1126,
+        "models": {
+            "100 series": 1127,
+            "Citigo": 2615,
+            "Fabia": 1130,
+            "Favorit": 1131,
+            "Felicia": 1132,
+            "Forman": 1133,
+            "Karoq": 5997,
+            "Kodiaq": 5698,
+            "Octavia": 1134,
+            "Praktik": 2396,
+            "Rapid": 2424,
+            "Roomster": 1943,
+            "Superb": 1135,
+            "Yeti": 2369
+        }
+    },
+    "Skywell": {
+        "id": 10308,
+        "models": {
+            "ET5": 10309
+        }
+    },
+    "Smart": {
+        "id": 2449,
+        "models": {
+            "Forfour": 2452,
+            "Fortwo": 2454,
+            "Roadster": 2453
+        }
+    },
+    "SRM": {
+        "id": 10350,
+        "models": {
+            "X30L EV": 10351
+        }
+    },
+    "SsangYong": {
+        "id": 1597,
+        "models": {
+            "Actyon": 1968,
+            "Actyon Sports": 5968,
+            "Chairman": 1598,
+            "Istana": 1600,
+            "Kallista": 1601,
+            "Korando": 1602,
+            "Kyron": 1603,
+            "Musso": 1604,
+            "Rexton": 1605,
+            "Rodius": 1606,
+            "Stavic": 5998,
+            "Tivoli": 5699
+        }
+    },
+    "Subaru": {
+        "id": 1136,
+        "models": {
+            "Alcyone": 5700,
+            "Ascent": 10030,
+            "Baja": 1684,
+            "BRZ": 2667,
+            "Crosstrek": 10359,
+            "Domingo": 1139,
+            "Forester": 1142,
+            "Impreza": 1143,
+            "Justy": 1144,
+            "Legacy": 1145,
+            "Leone": 1146,
+            "Levorg": 5701,
+            "Libero": 1147,
+            "Outback": 1148,
+            "Pleo": 1149,
+            "R1": 5702,
+            "R2": 5703,
+            "Sambar": 1151,
+            "Stella": 5704,
+            "SVX": 1152,
+            "Traviq": 1153,
+            "Trezia": 2539,
+            "Tribeca": 1712,
+            "Vivio": 1154,
+            "WRX": 5946,
+            "WRX STi": 5947,
+            "XV": 2525
+        }
+    },
+    "Suzuki": {
+        "id": 1155,
+        "models": {
+            "Aerio": 1156,
+            "Alto": 1157,
+            "Baleno": 1158,
+            "Cappuccino": 1159,
+            "Carry": 1161,
+            "Celerio": 5705,
+            "Equator": 2529,
+            "Esteem": 1164,
+            "Every": 1165,
+            "Forenza": 1564,
+            "Grand Vitara": 1167,
+            "Ignis": 1168,
+            "Jimny": 1169,
+            "Kei": 1170,
+            "Kizashi": 2319,
+            "Liana": 1172,
+            "Reno": 2042,
+            "Samurai": 10005,
+            "Splash": 2270,
+            "Swift": 1176,
+            "SX4": 1900,
+            "Verona": 1741,
+            "Vitara": 1177,
+            "Wagon R+": 1178,
+            "X-90": 1932,
+            "XL-7": 1180
+        }
+    },
+    "Tata": {
+        "id": 5447,
+        "models": {
+            "Estate": 5707,
+            "Indica": 5448,
+            "Safari": 5449,
+            "Sierra": 5708,
+            "Sumo": 5450,
+            "Telcoline": 5932,
+            "Xenon": 10203
+        }
+    },
+    "Tatra": {
+        "id": 10161,
+        "models": {
+            "T613": 10162
+        }
+    },
+    "Tesla": {
+        "id": 2521,
+        "models": {
+            "Model 3": 5799,
+            "Model S": 2522,
+            "Model X": 5287,
+            "Model Y": 6011,
+            "Roadster": 2564
+        }
+    },
+    "Think": {
+        "id": 10013,
+        "models": {
+            "City": 10014
+        }
+    },
+    "Tianma": {
+        "id": 5520,
+        "models": {
+            "Century": 5521,
+            "Hero": 5709
+        }
+    },
+    "Toyota": {
+        "id": 1181,
+        "models": {
+            "4Runner": 1182,
+            "Allion": 5711,
+            "Alphard": 2338,
+            "Altezza": 10266,
+            "Auris": 1962,
+            "Avalon": 1546,
+            "Avensis": 1189,
+            "Avensis Verso": 2321,
+            "Aygo": 1940,
+            "BZ4X": 10293,
+            "C-HR": 5715,
+            "Camry": 1192,
+            "Camry Solara": 5716,
+            "Carina": 1193,
+            "Carina E": 5942,
+            "Cavalier": 1583,
+            "Celica": 1194,
+            "Chaser": 5999,
+            "Corolla": 1196,
+            "Corolla Cross": 10206,
+            "Corolla Verso": 2038,
+            "Corsa ": 10074,
+            "Cresta": 10156,
+            "Crown": 1197,
+            "Cynos": 5446,
+            "Duet": 10016,
+            "Echo": 1745,
+            "FJ Cruiser": 1969,
+            "Fortuner": 1853,
+            "GR86": 10366,
+            "Grand Highlander": 10415,
+            "GT 86": 2383,
+            "Hiace": 1201,
+            "Highlander": 1582,
+            "Hilux": 1698,
+            "iQ": 2267,
+            "Izoa": 10258,
+            "Land Cruiser": 1203,
+            "Land Cruiser Prado": 5731,
+            "Lite Ace": 1215,
+            "Mark II": 5724,
+            "Mark X": 5725,
+            "Mark X Zio": 10214,
+            "Matrix": 1213,
+            "MR2": 1206,
+            "Paseo": 1524,
+            "Picnic": 1494,
+            "Previa": 1207,
+            "Prius": 1208,
+            "Prius C": 5928,
+            "Prius PHV": 6002,
+            "Prius Prime": 6001,
+            "Prius V(+)": 5927,
+            "ProAce City": 10364,
+            "ProAce Verso": 5992,
+            "Ractis": 5727,
+            "RAV4": 1209,
+            "Sequoia": 1214,
+            "Sienna": 1504,
+            "Soarer": 5442,
+            "Starlet": 1579,
+            "Supra": 1210,
+            "Tacoma": 2585,
+            "Tercel": 1589,
+            "Town Ace": 5458,
+            "Tundra": 1567,
+            "Urban Cruiser": 2269,
+            "Venza": 2121,
+            "Verso": 2392,
+            "Verso-S": 5464,
+            "Vios": 10358,
+            "Vista": 1211,
+            "Voltz": 6000,
+            "Voxy": 10348,
+            "Yaris": 1212,
+            "Yaris GR": 10277,
+            "Yaris TRD": 10278,
+            "Yaris Verso": 5275
+        }
+    },
+    "Trabant": {
+        "id": 5080,
+        "models": {
+            "P601": 5083
+        }
+    },
+    "VGV": {
+        "id": 10368,
+        "models": {
+            "U70": 10369,
+            "U70 Pro": 10370,
+            "U75 PLUS": 10371
+        }
+    },
+    "Volkswagen": {
+        "id": 1216,
+        "models": {
+            "Amarok": 2320,
+            "Arteon": 10020,
+            "Atlas": 5980,
+            "Atlas Cross Sport": 10265,
+            "Beetle": 1217,
+            "Bora": 1218,
+            "Caddy": 1219,
+            "Caddy MAXI": 5855,
+            "California": 5916,
+            "Caravelle": 5913,
+            "Corrado": 1220,
+            "Derby": 5732,
+            "e-Bora": 10019,
+            "e-Golf": 5948,
+            "e-Lavida": 10097,
+            "Eos": 2075,
+            "Fox": 1984,
+            "Gol": 1534,
+            "Golf": 5908,
+            "Golf Alltrack": 10046,
+            "Golf Country": 1221,
+            "Golf GTD": 10389,
+            "Golf GTI": 5909,
+            "Golf Plus": 2656,
+            "Golf R": 5910,
+            "Golf R32": 5911,
+            "Golf Sportsvan": 5964,
+            "ID.3": 10062,
+            "ID.4": 10063,
+            "ID.6": 10138,
+            "Iltis": 5733,
+            "Jetta": 1223,
+            "Lavida Plus ": 10021,
+            "Lupo": 1226,
+            "Multivan": 5914,
+            "Passat": 5912,
+            "Passat (USA)": 5835,
+            "Passat Alltrack": 5261,
+            "Passat CC": 2074,
+            "Phaeton": 1228,
+            "Pointer": 5309,
+            "Polo": 1229,
+            "Polo GTI": 5921,
+            "Polo Sedan": 5920,
+            "Routan": 2104,
+            "Santana": 1425,
+            "Scirocco": 1231,
+            "Sharan": 1230,
+            "T-Cross": 10207,
+            "T-Roc": 10076,
+            "T-Roc R": 10302,
+            "Taigo": 10221,
+            "Taos ": 10081,
+            "Taro": 1234,
+            "Teramont": 5842,
+            "Tiguan": 1974,
+            "Tiguan Allspace": 10282,
+            "Tiguan R": 10283,
+            "Touareg": 1235,
+            "Touran": 1236,
+            "Transporter": 5915,
+            "Type 2": 2673,
+            "up!": 2674,
+            "Vento": 1237
+        }
+    },
+    "Volvo": {
+        "id": 1238,
+        "models": {
+            "240 series": 1246,
+            "260 series": 5736,
+            "300 series": 1239,
+            "440": 1240,
+            "460": 1241,
+            "480": 1242,
+            "740": 1243,
+            "760": 1581,
+            "780": 5737,
+            "850": 1244,
+            "940": 1245,
+            "960": 1248,
+            "C30": 2092,
+            "C40": 10344,
+            "C70": 1250,
+            "S40": 1255,
+            "S60": 1256,
+            "S70": 1257,
+            "S80": 1258,
+            "S90": 1259,
+            "V40": 1260,
+            "V40 Cross Country": 10117,
+            "V50": 1769,
+            "V60": 2523,
+            "V60 Cross Country": 10110,
+            "V70": 1261,
+            "V90": 1717,
+            "V90 Cross Country": 10036,
+            "XC40": 5950,
+            "XC60": 2098,
+            "XC70": 1262,
+            "XC90": 1263
+        }
+    },
+    "Vortex": {
+        "id": 5437,
+        "models": {
+            "Corda": 5440,
+            "Estina": 5439,
+            "Tingo": 5438
+        }
+    },
+    "Voyah": {
+        "id": 10244,
+        "models": {
+            "Dream": 10257,
+            "Free": 10245,
+            "Passion": 10413
+        }
+    },
+    "Wartburg": {
+        "id": 1857,
+        "models": {
+            "353": 1858
+        }
+    },
+    "Weltmeister": {
+        "id": 10067,
+        "models": {
+            "EX5": 10068,
+            "EX6": 10252,
+            "W6": 10208
+        }
+    },
+    "Wuling": {
+        "id": 10334,
+        "models": {
+            "MINI EV": 10335
+        }
+    },
+    "Xpeng": {
+        "id": 6019,
+        "models": {
+            "G3": 6020,
+            "P7": 10052
+        }
+    },
+    "Yudo": {
+        "id": 10285,
+        "models": {
+            "P1 Pro": 10286
+        }
+    },
+    "Zeekr": {
+        "id": 10185,
+        "models": {
+            "001": 10186,
+            "009": 10353,
+            "X": 10321
+        }
+    },
+    "Zotye": {
+        "id": 2510,
+        "models": {
+            "Coupa": 5961,
+            "E200": 10017,
+            "M300": 2512,
+            "T200": 2517,
+            "T600": 2518,
+            "V10": 2519,
+            "Z100": 2514,
+            "Z200": 2515,
+            "Z300": 2516
+        }
+    },
+    "ZX": {
+        "id": 5066,
+        "models": {
+            "Grand Tiger": 5069,
+            "Landmark": 5068
+        }
+    },
+    "Богдан": {
+        "id": 5076,
+        "models": {
+            "2110": 5738,
+            "2111": 5739,
+            "2310": 5077,
+            "2312": 5740
+        }
+    },
+    "ГАЗ": {
+        "id": 1310,
+        "models": {
+            "12 (ЗИМ)": 5329,
+            "13 \"Чайка\"": 5741,
+            "14 \"Чайка\"": 1456,
+            "21": 1458,
+            "22": 1459,
+            "23": 1460,
+            "24": 1461,
+            "3102": 1462,
+            "31029": 5807,
+            "3110": 5808,
+            "31105": 5809,
+            "3111": 5848,
+            "67": 2206,
+            "69": 1463,
+            "M-20 Победа": 1457,
+            "Volga Siber": 5277,
+            "Тигр": 5933
+        }
+    },
+    "ЕрАЗ": {
+        "id": 10094,
+        "models": {
+            "762": 10095
+        }
+    },
+    "ЗАЗ": {
+        "id": 1551,
+        "models": {
+            "1102 Таврия": 1552,
+            "1103 Slavuta": 5251,
+            "1105 Дана": 1556,
+            "965": 1553,
+            "966": 1554,
+            "968": 1555,
+            "Chance": 2422,
+            "Forza": 2393,
+            "Lanos": 2394,
+            "Pick-Up": 2395,
+            "Sens": 2420,
+            "Vida": 2418
+        }
+    },
+    "ИЖ": {
+        "id": 2894,
+        "models": {
+            "2125": 5108,
+            "2126": 5540,
+            "2715": 5048,
+            "2717": 5049
+        }
+    },
+    "ЛуАЗ": {
+        "id": 2345,
+        "models": {
+            "1302": 5742,
+            "967": 5794,
+            "969": 2346
+        }
+    },
+    "Москвич": {
+        "id": 2051,
+        "models": {
+            "2136": 2052,
+            "2137": 2053,
+            "2138": 2054,
+            "2140": 2055,
+            "2141": 2056,
+            "2335": 5743,
+            "3": 10365,
+            "400": 2057,
+            "401": 2058,
+            "402": 2059,
+            "403": 2060,
+            "406": 2061,
+            "407": 2062,
+            "408": 2063,
+            "410": 5744,
+            "412": 2064,
+            "423": 2065,
+            "426": 2066,
+            "427": 2067,
+            "434": 2068,
+            "Князь Владимир": 2069,
+            "Святогор": 2070,
+            "Юрий Долгорукий": 2071
+        }
+    },
+    "РАФ": {
+        "id": 5252,
+        "models": {
+            "2203": 5253
+        }
+    },
+    "ТагАЗ": {
+        "id": 5032,
+        "models": {
+            "Aquila": 5033,
+            "C10": 5035,
+            "C190": 5036,
+            "Road Partner": 5037,
+            "Tager": 5038,
+            "Vega": 5039
+        }
+    },
+    "УАЗ": {
+        "id": 1464,
+        "models": {
+            "2206": 1465,
+            "2360": 5745,
+            "2363 Пикап": 1466,
+            "31": 1467,
+            "3909": 1469,
+            "451": 5746,
+            "452": 1477,
+            "469": 1478,
+            "Hunter": 5156,
+            "Патриот": 1592
+        }
+    },
+    "Эксклюзив": {
+        "id": 5019,
+        "models": {
+            "Автодом": 5849,
+            "Багги": 5541,
+            "Вездеход": 5416,
+            "Военная техника": 5415,
+            "Карт": 5417,
+            "Редкая модель": 5023,
+            "Ретро": 5024,
+            "Самодельный": 5025,
+            "Спорт": 5026
+        }
+    }
+}

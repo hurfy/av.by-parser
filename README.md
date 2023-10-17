@@ -1,5 +1,5 @@
 # AV.BY ASYNC PARSER
-This is an async parser that searches for auto information on a website [av.by](https://cars.av.by).
+This is an async parser that searches for information about a car on the [av.by](https://cars.av.by) website.
 
 *The [API](https://api.av.by/_doc) was used to compile the list of cars.
 

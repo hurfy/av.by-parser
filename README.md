@@ -1,8 +1,8 @@
 # AV.BY ASYNC PARSER
 This is an async parser that searches for information about a car on the [av.by](https://cars.av.by) website.
 
-*The [API](https://api.av.by/_doc) was used to compile the list of cars.
-
+*The [API](https://api.av.by/_doc) was used to compile the list of cars.<br>
+*In the startup configuration setting, you must enable the "Emulate Terminal in output console" option.
 ## Feature:
 - Choosing a car brand
 - Selecting a car model

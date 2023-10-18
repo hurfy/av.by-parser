@@ -65,20 +65,18 @@ async def cars_count(brand: int, model: int) -> int:
     :return:      int: Pages count
     """
     async with ClientSession() as session:
-        url = fr'https://cars.av.by/filter'
+        url    = fr'https://cars.av.by/filter'
         params = {'brands[0][brand]': brand, 'brands[0][model]': model}
 
         async with session.get(url, params=params) as response:
-            soup = BeautifulSoup(await response.text(), 'html.parser')
+            soup  = BeautifulSoup(await response.text(), 'html.parser')
             count = soup.find('h3', class_='listing__title')
 
-            if count is None:
-                return 0
-
     # There are 25 ads on each page
-    return ceil(int(sub(r'\D', '', count.text)) / 25)
+    return 0 if count is None else ceil(int(sub(r'\D', '', count.text)) / 25)
 
 
+# Remove HTML chars
 def rhc(text: str) -> str:
     """
     The function removes garbage characters, and replaces special HTML characters with normal characters

@@ -88,14 +88,12 @@ async def main() -> None:
     """
     while True:
         brand, brand_id, model, model_id = select_car()
-        count = await cars_count(brand_id, model_id)
 
         # If the number of auto is 0, the search will not be performed
-        if count == 0:
+        if (count := await cars_count(brand_id, model_id)) == 0:
             if create_menu('0 cars found, want to continue?', ['Yes', 'No']) == 'Yes':
                 continue
-            else:
-                break
+            break
 
         cars = await gather_cars_data(brand_id, model_id, count)
         name = f'{brand.lower().replace(" ", "_")}_{model.lower().replace(" ", "_").replace("-", "_")}'
@@ -103,8 +101,7 @@ async def main() -> None:
 
         # Print the list of found cars
         if create_menu(f'{len(cars)} cars found, show list?', ['Yes', 'No']) == 'Yes':
-            for car in cars:
-                print(f'\n{car}')
+            [print(f'{car}\n') for car in cars]
 
         # Checking the folder
         if not exists(path):

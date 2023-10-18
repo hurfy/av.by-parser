@@ -57,6 +57,16 @@ class Car:
         return self._price[1] > other
 
 
+# Remove HTML chars
+def rhc(text: str) -> str:
+    """
+    The function removes garbage characters, and replaces special HTML characters with normal characters
+    :param text: str: The text in which the replacement will take place
+    :return:     str: The text in which the substitution took place
+    """
+    return text.replace(' ·', '').replace('\xa0', ' ').replace('\u2009', ' ')
+
+
 async def cars_count(brand: int, model: int) -> int:
     """
     This async function parse the page with the selected car, finding the number of ads
@@ -74,16 +84,6 @@ async def cars_count(brand: int, model: int) -> int:
 
     # There are 25 ads on each page
     return 0 if count is None else ceil(int(sub(r'\D', '', count.text)) / 25)
-
-
-# Remove HTML chars
-def rhc(text: str) -> str:
-    """
-    The function removes garbage characters, and replaces special HTML characters with normal characters
-    :param text: str: The text in which the replacement will take place
-    :return:     str: The text in which the substitution took place
-    """
-    return text.replace(' ·', '').replace('\xa0', ' ').replace('\u2009', ' ')
 
 
 async def fetch_cars(session: object, url: str, params: dict) -> list:

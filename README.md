@@ -23,7 +23,10 @@ Install requirements:
 ```cmd
   pip install -r requirements.txt
 ```
-Done, now just run the main.py file.
+Done, now just run the main.py file:
+```cmd
+  python main.py
+```
 
 ## Libraries:
 - [PyInquirer](https://github.com/CITGuru/PyInquirer/) (Menu)

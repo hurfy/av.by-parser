@@ -90,7 +90,7 @@ def rhc(text: str) -> str:
 
 async def fetch_cars(session: object, url: str, params: dict) -> list:
     """
-    The function sends an asynchronous request and collects all the information about the machines on the page
+    The function sends an async request and collects all the information about the machines on the page
     :param session: object: Async session
     :param url:        str: Page URLD
     :param params:    dict: Response parameters
@@ -116,7 +116,7 @@ async def fetch_cars(session: object, url: str, params: dict) -> list:
 
 async def gather_cars_data(brand: int, model: int, count: int) -> list:
     """
-    The function creates n-tasks for asynchronous collection of auto information
+    The function creates n-tasks for async collection of auto information
     :param brand: int: Auto brand ID
     :param model: int: Auto model ID
     :param count: int: Pages count

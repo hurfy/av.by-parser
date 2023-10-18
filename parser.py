@@ -57,21 +57,23 @@ class Car:
         return self._price[1] > other
 
 
-def cars_count(brand: int, model: int) -> int:
+async def cars_count(brand: int, model: int) -> int:
     """
-    This function parse the page with the selected car, finding the number of ads
+    This async function parse the page with the selected car, finding the number of ads
     :param brand: int: Auto brand ID
     :param model: int: Auto model ID
     :return:      int: Pages count
     """
-    url     = fr'https://cars.av.by/filter'
-    params  = {'brands[0][brand]': brand, 'brands[0][model]': model}
-    request = get(url, params=params).text
-    soup    = BeautifulSoup(request, 'html.parser')
-    count   = soup.find('h3', class_='listing__title')
+    async with ClientSession() as session:
+        url = fr'https://cars.av.by/filter'
+        params = {'brands[0][brand]': brand, 'brands[0][model]': model}
 
-    if count is None:
-        return 0
+        async with session.get(url, params=params) as response:
+            soup = BeautifulSoup(await response.text(), 'html.parser')
+            count = soup.find('h3', class_='listing__title')
+
+            if count is None:
+                return 0
 
     # There are 25 ads on each page
     return ceil(int(sub(r'\D', '', count.text)) / 25)

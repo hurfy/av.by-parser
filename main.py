@@ -86,7 +86,7 @@ async def main() -> None:
     """
     while True:
         brand, brand_id, model, model_id = select_car()
-        count = cars_count(brand_id, model_id)
+        count = await cars_count(brand_id, model_id)
 
         # If the number of auto is 0, the search will not be performed
         if count == 0:

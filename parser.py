@@ -1,6 +1,5 @@
 from asyncio  import create_task, gather
 from aiohttp  import ClientSession
-from requests import get
 from math     import ceil
 from bs4      import BeautifulSoup
 from re       import sub

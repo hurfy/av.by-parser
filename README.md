@@ -24,7 +24,7 @@ Done, now just run the main.py file.
 - [PyInquirer](https://github.com/CITGuru/PyInquirer/) (Menu)
 - [Bs4](https://www.crummy.com/software/BeautifulSoup/) (Parsing)
 - [aiohttp](https://docs.aiohttp.org/en/stable/) (Async requests)
-- [requests](https://requests.readthedocs.io/en/latest/) (Requests)
+
 
 ## Authors:
 - [@hurfy](https://github.com/hurfy)

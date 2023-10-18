@@ -18,6 +18,25 @@ def load_cars_list() -> dict:
         return load(file)
 
 
+def create_menu(text: str, choice: list) -> str:
+    """
+    The function creates a menu using the PyInquirer module
+    :param text:    str: Question text
+    :param choice: list: Choice
+    :return:        str: Choice result
+    """
+    menu = [
+        {
+            'type': 'list',
+            'name': 'result',
+            'message': text,
+            'choices': choice
+        }
+    ]
+
+    return prompt(menu, style=custom_style_2)['result']
+
+
 def write_to_json(name: str, path: str, text: list) -> None:
     """
     The function writes the results to a .json file
@@ -54,25 +73,8 @@ def select_car() -> tuple:
     """
     cars_list = load_cars_list()
 
-    select_brand = [
-        {
-            'type': 'list',
-            'name': 'brand',
-            'message': 'Choose a car brand:',
-            'choices': [i for i in cars_list.keys()]
-        }
-    ]
-    selected_brand = prompt(select_brand, style=custom_style_2)['brand']
-
-    select_model = [
-        {
-            'type': 'list',
-            'name': 'model',
-            'message': 'Choose a model:',
-            'choices': [i for i in cars_list[selected_brand]['models']]
-        }
-    ]
-    selected_model = prompt(select_model, style=custom_style_2)['model']
+    selected_brand = create_menu('Choose a car brand:', [i for i in cars_list.keys()])
+    selected_model = create_menu('Choose a model:', [i for i in cars_list[selected_brand]['models']])
 
     return selected_brand, cars_list[selected_brand]['id'],\
         selected_model, cars_list[selected_brand]['models'][selected_model]
@@ -90,17 +92,7 @@ async def main() -> None:
 
         # If the number of auto is 0, the search will not be performed
         if count == 0:
-            continue_select = [
-                {
-                    'type': 'list',
-                    'name': 'bool',
-                    'message': f'0 cars found, want to continue?',
-                    'choices': ['Yes', 'No']
-                }
-            ]
-            would_continue = prompt(continue_select, style=custom_style_2)['bool']
-
-            if would_continue == 'Yes':
+            if create_menu('0 cars found, want to continue?', ['Yes', 'No']) == 'Yes':
                 continue
             else:
                 break
@@ -110,17 +102,7 @@ async def main() -> None:
         path = fr'output/{name}'
 
         # Print the list of found cars
-        print_select = [
-            {
-                'type': 'list',
-                'name': 'bool',
-                'message': f'{len(cars)} cars found, show list?',
-                'choices': ['Yes', 'No']
-            }
-        ]
-        would_print = prompt(print_select, style=custom_style_2)['bool']
-
-        if would_print == 'Yes':
+        if create_menu(f'{len(cars)} cars found, show list?', ['Yes', 'No']) == 'Yes':
             for car in cars:
                 print(f'\n{car}')
 
@@ -133,17 +115,7 @@ async def main() -> None:
         write_to_csv(name, path, cars)
 
         # Continue searching
-        continue_select = [
-            {
-                'type': 'list',
-                'name': 'bool',
-                'message': f'Want to continue?',
-                'choices': ['Yes', 'No']
-            }
-        ]
-        would_continue = prompt(continue_select, style=custom_style_2)['bool']
-
-        if would_continue == 'No':
+        if create_menu(f'Want to continue?', ['Yes', 'No']) == 'No':
             break
 
 

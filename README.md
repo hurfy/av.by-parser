@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/hurfy/av.by-parser"><img src="" alt="av.by-parser" /></a>
+    <a href="https://github.com/hurfy/av.by-parser"><img src="https://github.com/user-attachments/assets/1d99334f-d0a6-4000-82d5-4b2ebe1f5935" alt="av.by-parser" /></a>
 </div>
 
 <div align="center">

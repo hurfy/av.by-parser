@@ -1,0 +1,35 @@
+from typing import Any, Literal
+from json   import load, dump
+from csv    import writer
+
+
+class FileManager:
+    @classmethod
+    def write(cls, path: str, data: list[Any], mode: Literal["json", "csv"] = "json") -> None:
+        """Writing data to a file. Implements a wrapper over write_json and write_csv. """
+        fm_writer = cls._write_csv if mode == "csv" else cls._write_json
+        fm_writer(path, data)
+
+    @classmethod
+    def _write_json(cls, path: str, data: list[Any]) -> None:
+        """Writes data to JSON"""
+        with open(path, "w", encoding="UTF-8") as file:
+            dump(data, file, indent=4, ensure_ascii=False)
+
+    @classmethod
+    def _write_csv(cls, path: str, data: list[Any]) -> None:
+        """Writes data to CSV"""
+        with open(path, "w", encoding="UTF-8") as file:
+            csv_writer = writer(file, delimiter=';')
+
+            for item in data:
+                item = item.get_info()
+                csv_writer.writerow(
+                    [item["model"], item["price"], item["params"], item["url"]]
+                )
+
+    @classmethod
+    def load_cars(cls, path: str) -> dict[Any, Any] | list[Any]:
+        """Loading car list data from JSON"""
+        with open(path, "r", encoding="UTF-8") as file:
+            return load(file)

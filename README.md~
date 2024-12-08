@@ -25,21 +25,7 @@
 ## Introduction
 This is an async parser that searches for information about a car on the [av.by](https://cars.av.by) website.
 
-## Quick Start
 First of all, start the application using CMD, otherwise it is unlikely to start.<br>*You can use “Emulate Terminal in output console” if you use PyCharm.
-
-Clone the repository:
-```cmd
-  git clone git@github.com:hurfy/av.by-parser.git
-```
-Install requirements:
-```cmd
-  pip install -r requirements.txt
-```
-Done, now just run the main.py file:
-```cmd
-  python src/main.py
-```
 
 There are two ways to start it:
 1. Without specifying parameters. In this case, a menu will be created where the user will be prompted to select the make and model of the car.
@@ -52,6 +38,22 @@ There are two ways to start it:
       python src/main.py 84 521
     ```
 Python 3.11 was used in the development, so I do not guarantee its performance on other versions.
+
+
+## Quickstart:
+Clone the repository:
+```cmd
+  git clone git@github.com:hurfy/av.by-parser.git
+```
+Install requirements:
+```cmd
+  pip install -r requirements.txt
+```
+Done, now just run the main.py file:
+```cmd
+  python src/main.py
+```
+*You can customize the virtual environment to your liking.
 
 ## JSON Example:
 ```json

@@ -67,7 +67,7 @@ class CarParser:
         }
 
         # Get raw HTML
-        async with self.session.get(url=fr"https://cars.av.by/filter", params=params) as response:
+        async with self.session.get(url=r"https://cars.av.by/filter", params=params) as response:
             soup      = BeautifulSoup(await response.text(), "html.parser")
             car_items = soup.find_all(class_="listing-item")
 

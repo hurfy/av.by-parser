@@ -1,10 +1,9 @@
 from pydantic import BaseModel
-from typing   import Optional
 
 
 class Base(BaseModel):
     id  : int
-    name: Optional[str]
+    name: str | None
 
 
 class Brand(Base):

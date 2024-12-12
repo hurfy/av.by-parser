@@ -13,7 +13,7 @@ class FileManager:
     @classmethod
     def load_cars(cls, path_: str) -> dict[Any, Any] | list[Any]:
         """Loading car list data from JSON"""
-        with open(path_, "r", encoding="UTF-8") as file:
+        with open(path_, encoding="UTF-8") as file:
             return load(file)
 
     @classmethod

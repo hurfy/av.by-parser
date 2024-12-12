@@ -1,5 +1,4 @@
 from pydantic import BaseModel, Field, HttpUrl
-from typing   import Optional
 from enum     import Enum
 
 
@@ -24,7 +23,7 @@ class GearBoxType(str, Enum):
 class CarBase(BaseModel):
     brand: str
     model: str
-    extra: Optional[str]
+    extra: str | None
 
 
 class CarEngine(BaseModel):

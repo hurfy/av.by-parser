@@ -1,12 +1,13 @@
-from functools   import wraps
-from asyncio     import run
-from typing      import Any, AnyStr, Callable, Coroutine, Optional, Annotated
-from typer       import Argument, run as typer_run
-from os          import path
-from datetime    import datetime
+from collections.abc import Callable, Coroutine
+from functools       import wraps
+from datetime        import datetime
+from asyncio         import run
+from typing          import Any, AnyStr, Annotated
+from typer           import Argument, run as typer_run
+from os              import path
 
-from controllers import Fm, Mm, Config, Brand, Model
-from parser      import CarParser, Car
+from controllers     import Fm, Mm, Config, Brand, Model
+from parser          import CarParser, Car
 
 ROOTDIR: AnyStr = path.dirname(path.dirname(path.abspath(__file__)))
 
@@ -22,13 +23,13 @@ def async_typer(func: Callable) -> Callable:
 
 @async_typer
 async def main(
-        brand: Annotated[Optional[int], Argument(help="Brand ID")] = None,
-        model: Annotated[Optional[int], Argument(help="Model ID")] = None,
+        brand: Annotated[int | None, Argument(help="Brand ID")] = None,
+        model: Annotated[int | None, Argument(help="Model ID")] = None,
 ) -> None:
     """main ..."""
     if brand is None or model is None:
         config: Config = await Mm(
-            Fm.load_cars(r"{}\public\cars.json".format(ROOTDIR))
+            Fm.load_cars(fr"{ROOTDIR}\public\cars.json")
         ).execute()
 
     else:
@@ -47,10 +48,9 @@ async def main(
     ]
 
     # Save finished public
-    Fm.dir_exist(r"{}/output/".format(ROOTDIR))
-    Fm.write_json(r"{}/output/{}.json".format(
-        ROOTDIR,
-        datetime.now().strftime("%d-%m-%Y-%H-%M-%S")),
+    Fm.dir_exist(fr"{ROOTDIR}/output/")
+    Fm.write_json(
+        fr"{ROOTDIR}/output/{datetime.now().strftime('%d-%m-%Y-%H-%M-%S')}.json",
         dumped_list
     )
 
